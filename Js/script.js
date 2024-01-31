@@ -75,5 +75,3 @@ document.addEventListener("DOMContentLoaded", function () {
   );
 });
 
-const Cv = document.getElementById("card-1");
-Cv
